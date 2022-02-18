@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'mvn compile but jksak'
+                echo 'mvn compile but wasim is good'
             }
         }
         stage('Test') {
