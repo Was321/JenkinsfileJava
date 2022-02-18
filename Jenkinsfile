@@ -4,7 +4,7 @@ pipeline {
     stages {
         stage('Build') {
             steps {
-                echo 'mvn compile'
+                echo 'mvn compile but jksak'
             }
         }
         stage('Test') {
